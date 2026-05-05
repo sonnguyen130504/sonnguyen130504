@@ -10,7 +10,7 @@
 
 ## 📞 Contact Information
 - **Email:** sonnguyen130504@gmail.com
-- **LinkedIn:** [linkedin.com/in/son-nguyen-4ba096367](https://www.linkedin.com/in/son-nguyen-4ba096367/)
+- **LinkedIn:** [www.linkedin.com/in/sonnguyen13](https://www.linkedin.com/in/sonnguyen13/)
 
 ---
 
