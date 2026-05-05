@@ -55,25 +55,8 @@ Passionate Full Stack Software Engineer with expertise in building scalable web 
 
 ---
 
-## 💼 Key Projects
-
-- **[net-microservice-template](https://github.com/sonnguyen130504/net-microservice-template)** - Production-ready microservice template with Clean Architecture, YARP Gateway, Redis caching, RabbitMQ messaging, and distributed tracing
-- **[Payment-Integration](https://github.com/sonnguyen130504/Payment-Integration)** - Multi-payment gateway integration (VNPay, SePay, PayOS) with .NET
-- **[EcommerceSystem](https://github.com/sonnguyen130504/EcommerceSystem)** - Full-featured e-commerce platform
-- **[Clean-Architecture-Template](https://github.com/sonnguyen130504/Clean-Architecture-Template)** - Clean Architecture implementation template
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonnguyen130504&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnguyen130504&layout=compact&theme=dark&hide_border=true)
-
----
-
 <div align="center">
 
-Made with ❤️ by Nguyen Ngoc Son
+Made with ✨ by Nguyen Ngoc Son
 
 </div>
