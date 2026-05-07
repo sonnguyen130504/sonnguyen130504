@@ -28,6 +28,8 @@ Passionate Full Stack Software Engineer with expertise in building scalable web 
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonnguyen130504&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
+<img src="https://streak-stats.demolab.com?user=sonnguyen130504&theme=radical&hide_border=true" height="150" alt="streak stats" />
+
 </div>
 
 ---
