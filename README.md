@@ -20,6 +20,20 @@ Passionate Full Stack Software Engineer with expertise in building scalable web 
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonnguyen130504&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnguyen130504&theme=radical&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sonnguyen130504&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
