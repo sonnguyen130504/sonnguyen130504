@@ -24,9 +24,9 @@ Passionate Full Stack Software Engineer with expertise in building scalable web 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonnguyen130504&theme=radical&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonnguyen130504&show_icons=true&theme=radical)](https://github.com/sonnguyen130504)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnguyen130504&theme=radical&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnguyen130504&theme=radical&layout=compact)](https://github.com/sonnguyen130504)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sonnguyen130504&theme=radical)](https://git.io/streak-stats)
 
